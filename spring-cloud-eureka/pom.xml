@@ -13,4 +13,7 @@
     <name>Spring Cloud Eureka</name>
     <description>Eureka project for Spring Boot</description>
 
+    <modules>
+        <module>spring-cloud-eureka-one</module>
+    </modules>
 </project>
