@@ -15,5 +15,6 @@
 
     <modules>
         <module>spring-cloud-eureka-one</module>
+        <module>spring-cloud-eureka-two</module>
     </modules>
 </project>
