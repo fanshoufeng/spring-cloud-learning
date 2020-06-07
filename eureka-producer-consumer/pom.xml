@@ -4,18 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.fanshoufeng</groupId>
         <artifactId>spring-cloud-learning</artifactId>
+        <groupId>com.fanshoufeng</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>spring-cloud-eureka</artifactId>
+    <artifactId>eureka-producer-consumer</artifactId>
     <packaging>pom</packaging>
-    <name>Spring Cloud Eureka</name>
-    <description>Eureka project for Spring Cloud</description>
+    <name>Spring Cloud Eureka Producer Consumer</name>
+    <description>Eureka Producer Consumer project for Spring Cloud</description>
 
-    <modules>
-        <module>spring-cloud-eureka-one</module>
-        <module>spring-cloud-eureka-two</module>
-        <module>spring-cloud-eureka-cluster</module>
-    </modules>
 </project>
