@@ -13,4 +13,7 @@
     <name>Spring Cloud Eureka Producer Consumer</name>
     <description>Eureka Producer Consumer project for Spring Cloud</description>
 
+    <modules>
+        <module>eureka</module>
+    </modules>
 </project>
