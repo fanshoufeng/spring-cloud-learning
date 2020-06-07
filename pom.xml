@@ -34,4 +34,8 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>spring-cloud-eureka</module>
+    </modules>
+
 </project>
