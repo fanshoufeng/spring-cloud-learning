@@ -12,4 +12,9 @@
     <packaging>pom</packaging>
     <name>Spring Cloud Hystrix</name>
     <description>Hystrix project for Spring Cloud</description>
+
+    <modules>
+        <module>hystrix-eureka</module>
+    </modules>
+
 </project>
