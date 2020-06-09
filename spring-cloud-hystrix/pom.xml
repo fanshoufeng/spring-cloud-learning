@@ -15,6 +15,7 @@
 
     <modules>
         <module>hystrix-eureka</module>
+        <module>hystrix-producer</module>
     </modules>
 
 </project>
